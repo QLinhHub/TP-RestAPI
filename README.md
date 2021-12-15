@@ -1,5 +1,6 @@
 # TP-RestAPI
 
+Outils utilises dans ce TP: java, maven, tomcat server
 Le but de ce TP:
 1. Creer les classes dans java.
 1. Creer un base de donne, manipuler la base de donne en utilisant java.
