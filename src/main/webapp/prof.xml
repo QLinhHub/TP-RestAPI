@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.11" class="java.beans.XMLDecoder">
+ <object class="org.upec.dao.Professeurs" id="Professeurs0">
+  <void property="professeurs">
+   <void method="add">
+    <object class="org.upec.dao.Professeur">
+     <void property="diplome">
+      <string>MASTER</string>
+     </void>
+     <void property="id_person">
+      <int>123</int>
+     </void>
+     <void property="module">
+      <string>APPRENTISSAGE PROFOND</string>
+     </void>
+     <void property="num_prof">
+      <int>1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="org.upec.dao.Professeur">
+     <void property="diplome">
+      <string>MASTER</string>
+     </void>
+     <void property="id_person">
+      <int>123</int>
+     </void>
+     <void property="module">
+      <string>BASE DE DONNE</string>
+     </void>
+     <void property="num_prof">
+      <int>2</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="org.upec.dao.Professeur">
+     <void property="diplome">
+      <string>INGENIEUR</string>
+     </void>
+     <void property="id_person">
+      <int>132</int>
+     </void>
+     <void property="module">
+      <string>GESTION DE PROCESSUS</string>
+     </void>
+     <void property="num_prof">
+      <int>3</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="org.upec.dao.Professeur">
+     <void property="diplome">
+      <string>BAC</string>
+     </void>
+     <void property="id_person">
+      <int>321</int>
+     </void>
+     <void property="module">
+      <string>BASE DE DONNE</string>
+     </void>
+     <void property="num_prof">
+      <int>4</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="org.upec.dao.Professeur">
+     <void property="diplome">
+      <string>PHD</string>
+     </void>
+     <void property="id_person">
+      <int>321</int>
+     </void>
+     <void property="module">
+      <string>GESTION DE PROCESSUS</string>
+     </void>
+     <void property="num_prof">
+      <int>6</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="org.upec.dao.Professeur">
+     <void property="diplome">
+      <string>ENSEIGNENT</string>
+     </void>
+     <void property="id_person">
+      <int>111</int>
+     </void>
+     <void property="module">
+      <string>ANGLAIS</string>
+     </void>
+     <void property="num_prof">
+      <int>9</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="org.upec.dao.Professeur">
+     <void property="diplome">
+      <string>BILINGUE</string>
+     </void>
+     <void property="id_person">
+      <int>101</int>
+     </void>
+     <void property="module">
+      <string>FRANCAIS</string>
+     </void>
+     <void property="num_prof">
+      <int>10</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="org.upec.dao.Professeur">
+     <void property="diplome">
+      <string>LANGUE</string>
+     </void>
+     <void property="id_person">
+      <int>333</int>
+     </void>
+     <void property="module">
+      <string>ARABE</string>
+     </void>
+     <void property="num_prof">
+      <int>11</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="org.upec.dao.Professeur">
+     <void property="diplome">
+      <string>LANGUE</string>
+     </void>
+     <void property="id_person">
+      <int>333</int>
+     </void>
+     <void property="module">
+      <string>ESPAGNOL</string>
+     </void>
+     <void property="num_prof">
+      <int>12</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="org.upec.dao.Professeur">
+     <void property="diplome">
+      <string>DATA</string>
+     </void>
+     <void property="id_person">
+      <int>132</int>
+     </void>
+     <void property="module">
+      <string>FRANCAIS</string>
+     </void>
+     <void property="num_prof">
+      <int>13</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="org.upec.dao.Professeur">
+     <void property="diplome">
+      <string>GGG</string>
+     </void>
+     <void property="id_person">
+      <int>111</int>
+     </void>
+     <void property="module">
+      <string>FRANCAIS</string>
+     </void>
+     <void property="num_prof">
+      <int>14</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="org.upec.dao.Professeur">
+     <void property="diplome">
+      <string>economie</string>
+     </void>
+     <void property="id_person">
+      <int>555</int>
+     </void>
+     <void property="module">
+      <string>culture</string>
+     </void>
+     <void property="num_prof">
+      <int>15</int>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>

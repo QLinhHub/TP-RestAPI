@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Professeurs>
+    <Professeur>
+        <NUM_P>5</NUM_P>
+        <FK_ID_P1>5</FK_ID_P1>
+        <DIPLOME>as</DIPLOME>
+        <FK_TITRE_MODULE>dd</FK_TITRE_MODULE>
+    </Professeur>
+    <Professeur>
+        <NUM_P>1</NUM_P>
+        <FK_ID_P1>2</FK_ID_P1>
+        <DIPLOME>aa</DIPLOME>
+        <FK_TITRE_MODULE>dd</FK_TITRE_MODULE>
+    </Professeur>
+</Professeurs>
